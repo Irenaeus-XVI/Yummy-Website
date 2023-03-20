@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yummy</title>
+    <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./node_modules/@fortawesome/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" href="./node_modules/aos/dist/aos.css">
+    <link rel="stylesheet" href="./Css/style.css">
+</head>
+
+<body class="bg-black">
+
+
+    <div class="loading   bg-black position-fixed top-0 start-0 end-0   bottom-0  text-white d-none  justify-content-center align-items-center"
+        id="loader">
+        <i class="fa fa-spinner fa-spin fa-5x"></i>
+    </div>
+
+    <div class="sidBar text-white d-flex">
+
+        <div class="leftSidBar d-flex flex-column justify-content-between vh-100 w-75">
+            <div class="links  p-3 overflow-hidden">
+                <ul class="text-white list-unstyled ">
+                    <li class="py-2" id="searchLink">Search</li>
+                    <li class="py-2" id="categorylink">Categories</li>
+                    <li class="py-2" id="areaLink">Area</li>
+                    <li class="py-2" id="ingredientsLink">Ingredients</li>
+                    <li class="py-2" id="contactlink">Contact Us</li>
+                </ul>
+            </div>
+
+            <div class="leftSidBarFooter ">
+                <div class="icons p-3">
+                    <i class=" fa fa-brands fa-facebook text-white"></i>
+                    <i class=" fa fa-brands fa-twitter text-white"></i>
+                    <i class=" fa fa-solid fa-globe text-white"></i>
+                    <p class="mb-0">Copyright Â© 2019 All Rights </p>
+
+                    Reserved.
+                </div>
+
+                <div class="footer p-3">
+
+                </div>
+            </div>
+
+        </div>
+
+
+
+        <div class="rightSidBar bg-white text-center d-flex flex-column justify-content-between w-25 text-black py-3">
+            <figure>
+                <img class="w-50" src="./Images/logo.png" alt="">
+            </figure>
+
+            <i class="fa-solid open-close-icon  fa-x fa-2x" id="closeSideBar"></i>
+
+            <div class="rightIcons d-flex flex-column py-3">
+                <i class=" fa fa-solid fa-globe mb-2"></i>
+                <i class="fa-solid fa-share-nodes"></i>
+
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+
+
+    <section id="homeMeals">
+
+        <div class="container">
+            <div class="row p-5 g-4 text-white" id="rowSearch">
+
+
+
+
+
+
+
+            </div>
+        </div>
+
+        <div class="container">
+            <div class=" row p-5 g-4 text-white" id="rowHomeMeals">
+
+
+
+
+
+
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+
+    <script src="./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="./node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="./node_modules/aos/dist/aos.js"></script>
+    <script src="./Js/index.js" type="module"></script>
+</body>
+
+</html>

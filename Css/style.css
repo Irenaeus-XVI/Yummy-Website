@@ -1,0 +1,82 @@
+/* sidBar */
+:root {
+    --slidBarLeftColor: #0D0D0D;
+    --homeMealsLayer: #f9f6f6ca;
+}
+
+/*  */
+.loading {
+    z-index: 999999;
+
+}
+
+
+/*  */
+.sidBar {
+
+    position: fixed;
+    z-index: 9999;
+    width: 300px;
+    left: 0;
+    top: 0;
+    bottom: 0;
+
+}
+
+
+
+.links {
+    cursor: pointer;
+}
+
+.links li {
+    position: relative;
+    top: 0px;
+}
+
+.leftSidBar {
+    background-color: var(--slidBarLeftColor);
+}
+
+
+#closeSideBar,
+.homeMealLayer {
+    cursor: pointer;
+}
+
+.rightIcons i {
+    cursor: pointer;
+}
+
+/*  */
+
+
+
+.homeMeal img,
+.homeMeal,
+i {
+    cursor: pointer;
+}
+
+
+.homeMeal .homeMealLayer {
+    background-color: var(--homeMealsLayer);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 100%;
+    transition: all 0.5s ease;
+}
+
+.homeMeal:hover .homeMealLayer {
+    top: 0;
+}
+
+
+
+input::placeholder {
+    color: white;
+}
+
+
+/*  */
