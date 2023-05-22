@@ -31,15 +31,10 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository to your local machine:
    
-   ```git clone https://github.com/Irenaeus-XVI/Yummy-Website.git
+     
+     git clone https://github.com/Irenaeus-XVI/Yummy-Website.git
    
    
-
-
-
-      
-
-
 ## Acknowledgements
 The Yummy-Website project was inspired by the love for food and the desire to create a community-driven platform for sharing culinary experiences.
 We express our gratitude to all the open-source contributors whose libraries and frameworks were used in this project.
