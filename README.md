@@ -2,7 +2,6 @@
 
 Welcome to Yummy-Website, a delightful web application for food lovers! This project aims to provide an interactive platform where users can explore, discover, and share their favorite recipes and food-related content.
 
-![Yummy-Website Screenshot](https://user-images.githubusercontent.com/87098443/xxxxxxxxxxxxxx.png)
 
 ## Features
 
