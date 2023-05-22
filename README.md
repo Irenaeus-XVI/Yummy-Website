@@ -37,9 +37,9 @@ To get a local copy up and running, follow these steps:
 
 2.Install the required dependencies for both the frontend and backend. Run the following command in the root directory as well as the client directory:
 
- ```shell
-   npm install
-   ```
+    ```shell
+      npm install
+      ```
 
 
 ## Acknowledgements
