@@ -22,7 +22,8 @@ Check out the live demo of Yummy-Website: [https://irenaeus-xvi.github.io/Yummy-
 - CSS
 - JavaScript
 - Bootstrap
--API
+- API
+
 
 ## Getting Started
 
