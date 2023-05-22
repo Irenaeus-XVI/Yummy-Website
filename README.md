@@ -30,9 +30,10 @@ Check out the live demo of Yummy-Website: [https://irenaeus-xvi.github.io/Yummy-
 To get a local copy up and running, follow these steps:
 
 1. Clone the repository to your local machine:
-
-   ```
-   git clone https://github.com/Irenaeus-XVI/Yummy-Website.git
+   
+   ```git clone https://github.com/Irenaeus-XVI/Yummy-Website.git
+   
+   
 
 
 
