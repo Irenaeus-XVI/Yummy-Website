@@ -43,6 +43,6 @@ To get a local copy up and running, follow these steps:
 
 
 ## Acknowledgements
-    The Yummy-Website project was inspired by the love for food and the desire to create a community-driven platform for sharing culinary experiences.
-    We express our gratitude to all the open-source contributors whose libraries and frameworks were used in this project.
+The Yummy-Website project was inspired by the love for food and the desire to create a community-driven platform for sharing culinary experiences.
+We express our gratitude to all the open-source contributors whose libraries and frameworks were used in this project.
 
