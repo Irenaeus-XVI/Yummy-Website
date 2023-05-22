@@ -31,7 +31,7 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository to your local machine:
 
-   ```shell
+   ```
    git clone https://github.com/Irenaeus-XVI/Yummy-Website.git
 
 
