@@ -23,6 +23,7 @@ Check out the live demo of Yummy-Website: [https://irenaeus-xvi.github.io/Yummy-
 - JavaScript
 - Bootstrap
 - API
+- jQuery
 
 
 ## Getting Started
